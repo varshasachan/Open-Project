@@ -1,0 +1,73 @@
+.card-style {
+    margin-top: 250px;
+    margin-left: 1000px;
+    width: 508px;
+    height: 575px;
+    }
+
+.q-cash {
+top: 1560px;
+left: 191px;
+width: 391px;
+height: 253px;
+/* background: transparent url('img/Rectangle Copy 23.png') 0% 0% no-repeat padding-box; */
+box-shadow: 0px 0px 30px #2321321F;
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+opacity: 1;
+}
+
+.opacity {
+margin-top:1171px;
+margin-left: 225px;
+width: 90px;
+height: 90px;
+background: transparent url('../../assets/images/Get Paid Instantly@2x.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.rect-2 {
+margin-top: -4500px;
+margin-left: 430px;
+width: 390px;
+height: 272px;
+/* background: transparent url('../../assets/images/Rectangle 2.svg') 0% 0% no-repeat padding-box; */
+opacity: 1;
+}
+
+.covid {
+margin-top: -550px;
+margin-left: 450px;
+width: 390px;
+height: 253px;
+/* background: transparent url('img/Rectangle Copy 25.png') 0% 0% no-repeat padding-box; */
+box-shadow: 0px 0px 30px #2321321F;
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+opacity: 1;
+}
+
+.lir {
+margin-top: 270px;
+margin-left: 5px;
+width: 391px;
+height: 276px;
+/* background: transparent url('img/Rectangle Copy 19.png') 0% 0% no-repeat padding-box; */
+box-shadow: 0px 0px 30px #2321321F;
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+opacity: 1;
+}
+
+.zero {
+margin-top: 286px;
+margin-left: 5px;
+width: 391px;
+height: 276px;
+/* background: transparent url('img/Rectangle Copy 17.png') 0% 0% no-repeat padding-box; */
+box-shadow: 0px 0px 30px #2321321F;
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+opacity: 1;
+}
+   
